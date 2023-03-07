@@ -18,7 +18,7 @@ namespace NZNewsSite.Controllers
             return View();
         }
 
-        public IActionResult Privacy()
+        public IActionResult NewZealand()
         {
             return View();
         }
