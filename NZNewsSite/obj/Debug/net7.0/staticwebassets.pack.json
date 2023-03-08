@@ -13,6 +13,122 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\Users\\shawn\\source\\repos\\NZNewsSite\\NZNewsSite\\wwwroot\\img\\aiscam.jpg",
+      "PackagePath": "staticwebassets\\img\\aiscam.jpg"
+    },
+    {
+      "Id": "C:\\Users\\shawn\\source\\repos\\NZNewsSite\\NZNewsSite\\wwwroot\\img\\bferns.jpg",
+      "PackagePath": "staticwebassets\\img\\bferns.jpg"
+    },
+    {
+      "Id": "C:\\Users\\shawn\\source\\repos\\NZNewsSite\\NZNewsSite\\wwwroot\\img\\breakerkings.jpg",
+      "PackagePath": "staticwebassets\\img\\breakerkings.jpg"
+    },
+    {
+      "Id": "C:\\Users\\shawn\\source\\repos\\NZNewsSite\\NZNewsSite\\wwwroot\\img\\c19.jpg",
+      "PackagePath": "staticwebassets\\img\\c19.jpg"
+    },
+    {
+      "Id": "C:\\Users\\shawn\\source\\repos\\NZNewsSite\\NZNewsSite\\wwwroot\\img\\ccovid.webp",
+      "PackagePath": "staticwebassets\\img\\ccovid.webp"
+    },
+    {
+      "Id": "C:\\Users\\shawn\\source\\repos\\NZNewsSite\\NZNewsSite\\wwwroot\\img\\census.jpg",
+      "PackagePath": "staticwebassets\\img\\census.jpg"
+    },
+    {
+      "Id": "C:\\Users\\shawn\\source\\repos\\NZNewsSite\\NZNewsSite\\wwwroot\\img\\cgpt.jpg",
+      "PackagePath": "staticwebassets\\img\\cgpt.jpg"
+    },
+    {
+      "Id": "C:\\Users\\shawn\\source\\repos\\NZNewsSite\\NZNewsSite\\wwwroot\\img\\flood.jpg",
+      "PackagePath": "staticwebassets\\img\\flood.jpg"
+    },
+    {
+      "Id": "C:\\Users\\shawn\\source\\repos\\NZNewsSite\\NZNewsSite\\wwwroot\\img\\gtraincrash.jpg",
+      "PackagePath": "staticwebassets\\img\\gtraincrash.jpg"
+    },
+    {
+      "Id": "C:\\Users\\shawn\\source\\repos\\NZNewsSite\\NZNewsSite\\wwwroot\\img\\hcrisis.jpg",
+      "PackagePath": "staticwebassets\\img\\hcrisis.jpg"
+    },
+    {
+      "Id": "C:\\Users\\shawn\\source\\repos\\NZNewsSite\\NZNewsSite\\wwwroot\\img\\hsyndr.jpg",
+      "PackagePath": "staticwebassets\\img\\hsyndr.jpg"
+    },
+    {
+      "Id": "C:\\Users\\shawn\\source\\repos\\NZNewsSite\\NZNewsSite\\wwwroot\\img\\jrapana.jpg",
+      "PackagePath": "staticwebassets\\img\\jrapana.jpg"
+    },
+    {
+      "Id": "C:\\Users\\shawn\\source\\repos\\NZNewsSite\\NZNewsSite\\wwwroot\\img\\kdurant.jpg",
+      "PackagePath": "staticwebassets\\img\\kdurant.jpg"
+    },
+    {
+      "Id": "C:\\Users\\shawn\\source\\repos\\NZNewsSite\\NZNewsSite\\wwwroot\\img\\klgbtq.webp",
+      "PackagePath": "staticwebassets\\img\\klgbtq.webp"
+    },
+    {
+      "Id": "C:\\Users\\shawn\\source\\repos\\NZNewsSite\\NZNewsSite\\wwwroot\\img\\ljames.jpg",
+      "PackagePath": "staticwebassets\\img\\ljames.jpg"
+    },
+    {
+      "Id": "C:\\Users\\shawn\\source\\repos\\NZNewsSite\\NZNewsSite\\wwwroot\\img\\medge.webp",
+      "PackagePath": "staticwebassets\\img\\medge.webp"
+    },
+    {
+      "Id": "C:\\Users\\shawn\\source\\repos\\NZNewsSite\\NZNewsSite\\wwwroot\\img\\metavr.jpeg",
+      "PackagePath": "staticwebassets\\img\\metavr.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\shawn\\source\\repos\\NZNewsSite\\NZNewsSite\\wwwroot\\img\\mverst.jpg",
+      "PackagePath": "staticwebassets\\img\\mverst.jpg"
+    },
+    {
+      "Id": "C:\\Users\\shawn\\source\\repos\\NZNewsSite\\NZNewsSite\\wwwroot\\img\\mwood.jpg",
+      "PackagePath": "staticwebassets\\img\\mwood.jpg"
+    },
+    {
+      "Id": "C:\\Users\\shawn\\source\\repos\\NZNewsSite\\NZNewsSite\\wwwroot\\img\\newslogo.jpg",
+      "PackagePath": "staticwebassets\\img\\newslogo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\shawn\\source\\repos\\NZNewsSite\\NZNewsSite\\wwwroot\\img\\njokic.jpg",
+      "PackagePath": "staticwebassets\\img\\njokic.jpg"
+    },
+    {
+      "Id": "C:\\Users\\shawn\\source\\repos\\NZNewsSite\\NZNewsSite\\wwwroot\\img\\scane.jpg",
+      "PackagePath": "staticwebassets\\img\\scane.jpg"
+    },
+    {
+      "Id": "C:\\Users\\shawn\\source\\repos\\NZNewsSite\\NZNewsSite\\wwwroot\\img\\spichai.jpg",
+      "PackagePath": "staticwebassets\\img\\spichai.jpg"
+    },
+    {
+      "Id": "C:\\Users\\shawn\\source\\repos\\NZNewsSite\\NZNewsSite\\wwwroot\\img\\teslay.jpg",
+      "PackagePath": "staticwebassets\\img\\teslay.jpg"
+    },
+    {
+      "Id": "C:\\Users\\shawn\\source\\repos\\NZNewsSite\\NZNewsSite\\wwwroot\\img\\ttok.jpg",
+      "PackagePath": "staticwebassets\\img\\ttok.jpg"
+    },
+    {
+      "Id": "C:\\Users\\shawn\\source\\repos\\NZNewsSite\\NZNewsSite\\wwwroot\\img\\uktun.webp",
+      "PackagePath": "staticwebassets\\img\\uktun.webp"
+    },
+    {
+      "Id": "C:\\Users\\shawn\\source\\repos\\NZNewsSite\\NZNewsSite\\wwwroot\\img\\vputin.jpg",
+      "PackagePath": "staticwebassets\\img\\vputin.jpg"
+    },
+    {
+      "Id": "C:\\Users\\shawn\\source\\repos\\NZNewsSite\\NZNewsSite\\wwwroot\\img\\vzelensky.jpg",
+      "PackagePath": "staticwebassets\\img\\vzelensky.jpg"
+    },
+    {
+      "Id": "C:\\Users\\shawn\\source\\repos\\NZNewsSite\\NZNewsSite\\wwwroot\\img\\wbrown.jpg",
+      "PackagePath": "staticwebassets\\img\\wbrown.jpg"
+    },
+    {
       "Id": "C:\\Users\\shawn\\source\\repos\\NZNewsSite\\NZNewsSite\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
