@@ -23,6 +23,11 @@ namespace NZNewsSite.Controllers
             return View();
         }
 
+        public IActionResult Technology()
+        {
+            return View();
+        }
+
         public IActionResult Sports()
         {
             return View();
