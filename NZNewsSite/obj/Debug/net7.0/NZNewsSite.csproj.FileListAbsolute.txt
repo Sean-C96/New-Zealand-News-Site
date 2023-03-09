@@ -91,3 +91,34 @@ C:\Users\shawn\Documents\GitBash\repos\NZNewsSite\NZNewsSite\obj\Debug\net7.0\re
 C:\Users\shawn\Documents\GitBash\repos\NZNewsSite\NZNewsSite\obj\Debug\net7.0\NZNewsSite.pdb
 C:\Users\shawn\Documents\GitBash\repos\NZNewsSite\NZNewsSite\obj\Debug\net7.0\NZNewsSite.genruntimeconfig.cache
 C:\Users\shawn\Documents\GitBash\repos\NZNewsSite\NZNewsSite\obj\Debug\net7.0\ref\NZNewsSite.dll
+C:\Users\Dee Jax\Documents\GitHub\New-Zealand-News-Site\NZNewsSite\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Dee Jax\Documents\GitHub\New-Zealand-News-Site\NZNewsSite\bin\Debug\net7.0\appsettings.json
+C:\Users\Dee Jax\Documents\GitHub\New-Zealand-News-Site\NZNewsSite\bin\Debug\net7.0\NZNewsSite.staticwebassets.runtime.json
+C:\Users\Dee Jax\Documents\GitHub\New-Zealand-News-Site\NZNewsSite\bin\Debug\net7.0\NZNewsSite.exe
+C:\Users\Dee Jax\Documents\GitHub\New-Zealand-News-Site\NZNewsSite\bin\Debug\net7.0\NZNewsSite.deps.json
+C:\Users\Dee Jax\Documents\GitHub\New-Zealand-News-Site\NZNewsSite\bin\Debug\net7.0\NZNewsSite.runtimeconfig.json
+C:\Users\Dee Jax\Documents\GitHub\New-Zealand-News-Site\NZNewsSite\bin\Debug\net7.0\NZNewsSite.dll
+C:\Users\Dee Jax\Documents\GitHub\New-Zealand-News-Site\NZNewsSite\bin\Debug\net7.0\NZNewsSite.pdb
+C:\Users\Dee Jax\Documents\GitHub\New-Zealand-News-Site\NZNewsSite\obj\Debug\net7.0\NZNewsSite.csproj.AssemblyReference.cache
+C:\Users\Dee Jax\Documents\GitHub\New-Zealand-News-Site\NZNewsSite\obj\Debug\net7.0\NZNewsSite.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dee Jax\Documents\GitHub\New-Zealand-News-Site\NZNewsSite\obj\Debug\net7.0\NZNewsSite.AssemblyInfoInputs.cache
+C:\Users\Dee Jax\Documents\GitHub\New-Zealand-News-Site\NZNewsSite\obj\Debug\net7.0\NZNewsSite.AssemblyInfo.cs
+C:\Users\Dee Jax\Documents\GitHub\New-Zealand-News-Site\NZNewsSite\obj\Debug\net7.0\NZNewsSite.csproj.CoreCompileInputs.cache
+C:\Users\Dee Jax\Documents\GitHub\New-Zealand-News-Site\NZNewsSite\obj\Debug\net7.0\NZNewsSite.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Dee Jax\Documents\GitHub\New-Zealand-News-Site\NZNewsSite\obj\Debug\net7.0\NZNewsSite.RazorAssemblyInfo.cache
+C:\Users\Dee Jax\Documents\GitHub\New-Zealand-News-Site\NZNewsSite\obj\Debug\net7.0\NZNewsSite.RazorAssemblyInfo.cs
+C:\Users\Dee Jax\Documents\GitHub\New-Zealand-News-Site\NZNewsSite\obj\Debug\net7.0\staticwebassets\msbuild.NZNewsSite.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Dee Jax\Documents\GitHub\New-Zealand-News-Site\NZNewsSite\obj\Debug\net7.0\staticwebassets\msbuild.build.NZNewsSite.props
+C:\Users\Dee Jax\Documents\GitHub\New-Zealand-News-Site\NZNewsSite\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.NZNewsSite.props
+C:\Users\Dee Jax\Documents\GitHub\New-Zealand-News-Site\NZNewsSite\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.NZNewsSite.props
+C:\Users\Dee Jax\Documents\GitHub\New-Zealand-News-Site\NZNewsSite\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Dee Jax\Documents\GitHub\New-Zealand-News-Site\NZNewsSite\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Dee Jax\Documents\GitHub\New-Zealand-News-Site\NZNewsSite\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Dee Jax\Documents\GitHub\New-Zealand-News-Site\NZNewsSite\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Dee Jax\Documents\GitHub\New-Zealand-News-Site\NZNewsSite\obj\Debug\net7.0\scopedcss\bundle\NZNewsSite.styles.css
+C:\Users\Dee Jax\Documents\GitHub\New-Zealand-News-Site\NZNewsSite\obj\Debug\net7.0\scopedcss\projectbundle\NZNewsSite.bundle.scp.css
+C:\Users\Dee Jax\Documents\GitHub\New-Zealand-News-Site\NZNewsSite\obj\Debug\net7.0\NZNewsSite.dll
+C:\Users\Dee Jax\Documents\GitHub\New-Zealand-News-Site\NZNewsSite\obj\Debug\net7.0\refint\NZNewsSite.dll
+C:\Users\Dee Jax\Documents\GitHub\New-Zealand-News-Site\NZNewsSite\obj\Debug\net7.0\NZNewsSite.pdb
+C:\Users\Dee Jax\Documents\GitHub\New-Zealand-News-Site\NZNewsSite\obj\Debug\net7.0\NZNewsSite.genruntimeconfig.cache
+C:\Users\Dee Jax\Documents\GitHub\New-Zealand-News-Site\NZNewsSite\obj\Debug\net7.0\ref\NZNewsSite.dll

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "g5jAEwUAaJ1VYDAOXgbtbqYKub0dJ2TLd6VuWLGrBbc=",
+  "Hash": "XUVJW5BBXr8CP5DJTdteHtTTMUmH9fs3RtA+XdK26cI=",
   "Source": "NZNewsSite",
   "BasePath": "_content/NZNewsSite",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "NZNewsSite\\wwwroot",
       "Source": "NZNewsSite",
-      "ContentRoot": "C:\\Users\\shawn\\Documents\\GitBash\\repos\\NZNewsSite\\NZNewsSite\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dee Jax\\Documents\\GitHub\\New-Zealand-News-Site\\NZNewsSite\\wwwroot\\",
       "BasePath": "_content/NZNewsSite",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\shawn\\Documents\\GitBash\\repos\\NZNewsSite\\NZNewsSite\\obj\\Debug\\net7.0\\scopedcss\\bundle\\NZNewsSite.styles.css",
+      "Identity": "C:\\Users\\Dee Jax\\Documents\\GitHub\\New-Zealand-News-Site\\NZNewsSite\\obj\\Debug\\net7.0\\scopedcss\\bundle\\NZNewsSite.styles.css",
       "SourceId": "NZNewsSite",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\shawn\\Documents\\GitBash\\repos\\NZNewsSite\\NZNewsSite\\obj\\Debug\\net7.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\Dee Jax\\Documents\\GitHub\\New-Zealand-News-Site\\NZNewsSite\\obj\\Debug\\net7.0\\scopedcss\\bundle\\",
       "BasePath": "_content/NZNewsSite",
       "RelativePath": "NZNewsSite.styles.css",
       "AssetKind": "All",
@@ -31,13 +31,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\shawn\\Documents\\GitBash\\repos\\NZNewsSite\\NZNewsSite\\obj\\Debug\\net7.0\\scopedcss\\bundle\\NZNewsSite.styles.css"
+      "OriginalItemSpec": "C:\\Users\\Dee Jax\\Documents\\GitHub\\New-Zealand-News-Site\\NZNewsSite\\obj\\Debug\\net7.0\\scopedcss\\bundle\\NZNewsSite.styles.css"
     },
     {
-      "Identity": "C:\\Users\\shawn\\Documents\\GitBash\\repos\\NZNewsSite\\NZNewsSite\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\NZNewsSite.bundle.scp.css",
+      "Identity": "C:\\Users\\Dee Jax\\Documents\\GitHub\\New-Zealand-News-Site\\NZNewsSite\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\NZNewsSite.bundle.scp.css",
       "SourceId": "NZNewsSite",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\shawn\\Documents\\GitBash\\repos\\NZNewsSite\\NZNewsSite\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\Dee Jax\\Documents\\GitHub\\New-Zealand-News-Site\\NZNewsSite\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/NZNewsSite",
       "RelativePath": "NZNewsSite.bundle.scp.css",
       "AssetKind": "All",
@@ -48,13 +48,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\shawn\\Documents\\GitBash\\repos\\NZNewsSite\\NZNewsSite\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\NZNewsSite.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\Dee Jax\\Documents\\GitHub\\New-Zealand-News-Site\\NZNewsSite\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\NZNewsSite.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\shawn\\Documents\\GitBash\\repos\\NZNewsSite\\NZNewsSite\\wwwroot\\css\\site.css",
+      "Identity": "C:\\Users\\Dee Jax\\Documents\\GitHub\\New-Zealand-News-Site\\NZNewsSite\\wwwroot\\css\\site.css",
       "SourceId": "NZNewsSite",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\shawn\\Documents\\GitBash\\repos\\NZNewsSite\\NZNewsSite\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dee Jax\\Documents\\GitHub\\New-Zealand-News-Site\\NZNewsSite\\wwwroot\\",
       "BasePath": "_content/NZNewsSite",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -68,10 +68,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "C:\\Users\\shawn\\Documents\\GitBash\\repos\\NZNewsSite\\NZNewsSite\\wwwroot\\favicon.ico",
+      "Identity": "C:\\Users\\Dee Jax\\Documents\\GitHub\\New-Zealand-News-Site\\NZNewsSite\\wwwroot\\favicon.ico",
       "SourceId": "NZNewsSite",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\shawn\\Documents\\GitBash\\repos\\NZNewsSite\\NZNewsSite\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dee Jax\\Documents\\GitHub\\New-Zealand-News-Site\\NZNewsSite\\wwwroot\\",
       "BasePath": "_content/NZNewsSite",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -85,10 +85,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\shawn\\Documents\\GitBash\\repos\\NZNewsSite\\NZNewsSite\\wwwroot\\img\\aiscam.jpg",
+      "Identity": "C:\\Users\\Dee Jax\\Documents\\GitHub\\New-Zealand-News-Site\\NZNewsSite\\wwwroot\\img\\aiscam.jpg",
       "SourceId": "NZNewsSite",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\shawn\\Documents\\GitBash\\repos\\NZNewsSite\\NZNewsSite\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dee Jax\\Documents\\GitHub\\New-Zealand-News-Site\\NZNewsSite\\wwwroot\\",
       "BasePath": "_content/NZNewsSite",
       "RelativePath": "img/aiscam.jpg",
       "AssetKind": "All",
@@ -102,10 +102,10 @@
       "OriginalItemSpec": "wwwroot\\img\\aiscam.jpg"
     },
     {
-      "Identity": "C:\\Users\\shawn\\Documents\\GitBash\\repos\\NZNewsSite\\NZNewsSite\\wwwroot\\img\\bferns.jpg",
+      "Identity": "C:\\Users\\Dee Jax\\Documents\\GitHub\\New-Zealand-News-Site\\NZNewsSite\\wwwroot\\img\\bferns.jpg",
       "SourceId": "NZNewsSite",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\shawn\\Documents\\GitBash\\repos\\NZNewsSite\\NZNewsSite\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dee Jax\\Documents\\GitHub\\New-Zealand-News-Site\\NZNewsSite\\wwwroot\\",
       "BasePath": "_content/NZNewsSite",
       "RelativePath": "img/bferns.jpg",
       "AssetKind": "All",
@@ -119,10 +119,10 @@
       "OriginalItemSpec": "wwwroot\\img\\bferns.jpg"
     },
     {
-      "Identity": "C:\\Users\\shawn\\Documents\\GitBash\\repos\\NZNewsSite\\NZNewsSite\\wwwroot\\img\\breakerkings.jpg",
+      "Identity": "C:\\Users\\Dee Jax\\Documents\\GitHub\\New-Zealand-News-Site\\NZNewsSite\\wwwroot\\img\\breakerkings.jpg",
       "SourceId": "NZNewsSite",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\shawn\\Documents\\GitBash\\repos\\NZNewsSite\\NZNewsSite\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dee Jax\\Documents\\GitHub\\New-Zealand-News-Site\\NZNewsSite\\wwwroot\\",
       "BasePath": "_content/NZNewsSite",
       "RelativePath": "img/breakerkings.jpg",
       "AssetKind": "All",
@@ -136,10 +136,10 @@
       "OriginalItemSpec": "wwwroot\\img\\breakerkings.jpg"
     },
     {
-      "Identity": "C:\\Users\\shawn\\Documents\\GitBash\\repos\\NZNewsSite\\NZNewsSite\\wwwroot\\img\\c19.jpg",
+      "Identity": "C:\\Users\\Dee Jax\\Documents\\GitHub\\New-Zealand-News-Site\\NZNewsSite\\wwwroot\\img\\c19.jpg",
       "SourceId": "NZNewsSite",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\shawn\\Documents\\GitBash\\repos\\NZNewsSite\\NZNewsSite\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dee Jax\\Documents\\GitHub\\New-Zealand-News-Site\\NZNewsSite\\wwwroot\\",
       "BasePath": "_content/NZNewsSite",
       "RelativePath": "img/c19.jpg",
       "AssetKind": "All",
@@ -153,10 +153,10 @@
       "OriginalItemSpec": "wwwroot\\img\\c19.jpg"
     },
     {
-      "Identity": "C:\\Users\\shawn\\Documents\\GitBash\\repos\\NZNewsSite\\NZNewsSite\\wwwroot\\img\\ccovid.webp",
+      "Identity": "C:\\Users\\Dee Jax\\Documents\\GitHub\\New-Zealand-News-Site\\NZNewsSite\\wwwroot\\img\\ccovid.webp",
       "SourceId": "NZNewsSite",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\shawn\\Documents\\GitBash\\repos\\NZNewsSite\\NZNewsSite\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dee Jax\\Documents\\GitHub\\New-Zealand-News-Site\\NZNewsSite\\wwwroot\\",
       "BasePath": "_content/NZNewsSite",
       "RelativePath": "img/ccovid.webp",
       "AssetKind": "All",
@@ -170,10 +170,10 @@
       "OriginalItemSpec": "wwwroot\\img\\ccovid.webp"
     },
     {
-      "Identity": "C:\\Users\\shawn\\Documents\\GitBash\\repos\\NZNewsSite\\NZNewsSite\\wwwroot\\img\\census.jpg",
+      "Identity": "C:\\Users\\Dee Jax\\Documents\\GitHub\\New-Zealand-News-Site\\NZNewsSite\\wwwroot\\img\\census.jpg",
       "SourceId": "NZNewsSite",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\shawn\\Documents\\GitBash\\repos\\NZNewsSite\\NZNewsSite\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dee Jax\\Documents\\GitHub\\New-Zealand-News-Site\\NZNewsSite\\wwwroot\\",
       "BasePath": "_content/NZNewsSite",
       "RelativePath": "img/census.jpg",
       "AssetKind": "All",
@@ -187,10 +187,10 @@
       "OriginalItemSpec": "wwwroot\\img\\census.jpg"
     },
     {
-      "Identity": "C:\\Users\\shawn\\Documents\\GitBash\\repos\\NZNewsSite\\NZNewsSite\\wwwroot\\img\\cgpt.jpg",
+      "Identity": "C:\\Users\\Dee Jax\\Documents\\GitHub\\New-Zealand-News-Site\\NZNewsSite\\wwwroot\\img\\cgpt.jpg",
       "SourceId": "NZNewsSite",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\shawn\\Documents\\GitBash\\repos\\NZNewsSite\\NZNewsSite\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dee Jax\\Documents\\GitHub\\New-Zealand-News-Site\\NZNewsSite\\wwwroot\\",
       "BasePath": "_content/NZNewsSite",
       "RelativePath": "img/cgpt.jpg",
       "AssetKind": "All",
@@ -204,10 +204,10 @@
       "OriginalItemSpec": "wwwroot\\img\\cgpt.jpg"
     },
     {
-      "Identity": "C:\\Users\\shawn\\Documents\\GitBash\\repos\\NZNewsSite\\NZNewsSite\\wwwroot\\img\\flood.jpg",
+      "Identity": "C:\\Users\\Dee Jax\\Documents\\GitHub\\New-Zealand-News-Site\\NZNewsSite\\wwwroot\\img\\flood.jpg",
       "SourceId": "NZNewsSite",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\shawn\\Documents\\GitBash\\repos\\NZNewsSite\\NZNewsSite\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dee Jax\\Documents\\GitHub\\New-Zealand-News-Site\\NZNewsSite\\wwwroot\\",
       "BasePath": "_content/NZNewsSite",
       "RelativePath": "img/flood.jpg",
       "AssetKind": "All",
@@ -221,10 +221,10 @@
       "OriginalItemSpec": "wwwroot\\img\\flood.jpg"
     },
     {
-      "Identity": "C:\\Users\\shawn\\Documents\\GitBash\\repos\\NZNewsSite\\NZNewsSite\\wwwroot\\img\\gtraincrash.jpg",
+      "Identity": "C:\\Users\\Dee Jax\\Documents\\GitHub\\New-Zealand-News-Site\\NZNewsSite\\wwwroot\\img\\gtraincrash.jpg",
       "SourceId": "NZNewsSite",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\shawn\\Documents\\GitBash\\repos\\NZNewsSite\\NZNewsSite\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dee Jax\\Documents\\GitHub\\New-Zealand-News-Site\\NZNewsSite\\wwwroot\\",
       "BasePath": "_content/NZNewsSite",
       "RelativePath": "img/gtraincrash.jpg",
       "AssetKind": "All",
@@ -238,10 +238,10 @@
       "OriginalItemSpec": "wwwroot\\img\\gtraincrash.jpg"
     },
     {
-      "Identity": "C:\\Users\\shawn\\Documents\\GitBash\\repos\\NZNewsSite\\NZNewsSite\\wwwroot\\img\\hcrisis.jpg",
+      "Identity": "C:\\Users\\Dee Jax\\Documents\\GitHub\\New-Zealand-News-Site\\NZNewsSite\\wwwroot\\img\\hcrisis.jpg",
       "SourceId": "NZNewsSite",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\shawn\\Documents\\GitBash\\repos\\NZNewsSite\\NZNewsSite\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dee Jax\\Documents\\GitHub\\New-Zealand-News-Site\\NZNewsSite\\wwwroot\\",
       "BasePath": "_content/NZNewsSite",
       "RelativePath": "img/hcrisis.jpg",
       "AssetKind": "All",
@@ -255,10 +255,10 @@
       "OriginalItemSpec": "wwwroot\\img\\hcrisis.jpg"
     },
     {
-      "Identity": "C:\\Users\\shawn\\Documents\\GitBash\\repos\\NZNewsSite\\NZNewsSite\\wwwroot\\img\\hsyndr.jpg",
+      "Identity": "C:\\Users\\Dee Jax\\Documents\\GitHub\\New-Zealand-News-Site\\NZNewsSite\\wwwroot\\img\\hsyndr.jpg",
       "SourceId": "NZNewsSite",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\shawn\\Documents\\GitBash\\repos\\NZNewsSite\\NZNewsSite\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dee Jax\\Documents\\GitHub\\New-Zealand-News-Site\\NZNewsSite\\wwwroot\\",
       "BasePath": "_content/NZNewsSite",
       "RelativePath": "img/hsyndr.jpg",
       "AssetKind": "All",
@@ -272,10 +272,10 @@
       "OriginalItemSpec": "wwwroot\\img\\hsyndr.jpg"
     },
     {
-      "Identity": "C:\\Users\\shawn\\Documents\\GitBash\\repos\\NZNewsSite\\NZNewsSite\\wwwroot\\img\\jrapana.jpg",
+      "Identity": "C:\\Users\\Dee Jax\\Documents\\GitHub\\New-Zealand-News-Site\\NZNewsSite\\wwwroot\\img\\jrapana.jpg",
       "SourceId": "NZNewsSite",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\shawn\\Documents\\GitBash\\repos\\NZNewsSite\\NZNewsSite\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dee Jax\\Documents\\GitHub\\New-Zealand-News-Site\\NZNewsSite\\wwwroot\\",
       "BasePath": "_content/NZNewsSite",
       "RelativePath": "img/jrapana.jpg",
       "AssetKind": "All",
@@ -289,10 +289,10 @@
       "OriginalItemSpec": "wwwroot\\img\\jrapana.jpg"
     },
     {
-      "Identity": "C:\\Users\\shawn\\Documents\\GitBash\\repos\\NZNewsSite\\NZNewsSite\\wwwroot\\img\\kdurant.jpg",
+      "Identity": "C:\\Users\\Dee Jax\\Documents\\GitHub\\New-Zealand-News-Site\\NZNewsSite\\wwwroot\\img\\kdurant.jpg",
       "SourceId": "NZNewsSite",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\shawn\\Documents\\GitBash\\repos\\NZNewsSite\\NZNewsSite\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dee Jax\\Documents\\GitHub\\New-Zealand-News-Site\\NZNewsSite\\wwwroot\\",
       "BasePath": "_content/NZNewsSite",
       "RelativePath": "img/kdurant.jpg",
       "AssetKind": "All",
@@ -306,10 +306,10 @@
       "OriginalItemSpec": "wwwroot\\img\\kdurant.jpg"
     },
     {
-      "Identity": "C:\\Users\\shawn\\Documents\\GitBash\\repos\\NZNewsSite\\NZNewsSite\\wwwroot\\img\\klgbtq.webp",
+      "Identity": "C:\\Users\\Dee Jax\\Documents\\GitHub\\New-Zealand-News-Site\\NZNewsSite\\wwwroot\\img\\klgbtq.webp",
       "SourceId": "NZNewsSite",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\shawn\\Documents\\GitBash\\repos\\NZNewsSite\\NZNewsSite\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dee Jax\\Documents\\GitHub\\New-Zealand-News-Site\\NZNewsSite\\wwwroot\\",
       "BasePath": "_content/NZNewsSite",
       "RelativePath": "img/klgbtq.webp",
       "AssetKind": "All",
@@ -323,10 +323,10 @@
       "OriginalItemSpec": "wwwroot\\img\\klgbtq.webp"
     },
     {
-      "Identity": "C:\\Users\\shawn\\Documents\\GitBash\\repos\\NZNewsSite\\NZNewsSite\\wwwroot\\img\\ljames.jpg",
+      "Identity": "C:\\Users\\Dee Jax\\Documents\\GitHub\\New-Zealand-News-Site\\NZNewsSite\\wwwroot\\img\\ljames.jpg",
       "SourceId": "NZNewsSite",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\shawn\\Documents\\GitBash\\repos\\NZNewsSite\\NZNewsSite\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dee Jax\\Documents\\GitHub\\New-Zealand-News-Site\\NZNewsSite\\wwwroot\\",
       "BasePath": "_content/NZNewsSite",
       "RelativePath": "img/ljames.jpg",
       "AssetKind": "All",
@@ -340,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\img\\ljames.jpg"
     },
     {
-      "Identity": "C:\\Users\\shawn\\Documents\\GitBash\\repos\\NZNewsSite\\NZNewsSite\\wwwroot\\img\\medge.webp",
+      "Identity": "C:\\Users\\Dee Jax\\Documents\\GitHub\\New-Zealand-News-Site\\NZNewsSite\\wwwroot\\img\\medge.webp",
       "SourceId": "NZNewsSite",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\shawn\\Documents\\GitBash\\repos\\NZNewsSite\\NZNewsSite\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dee Jax\\Documents\\GitHub\\New-Zealand-News-Site\\NZNewsSite\\wwwroot\\",
       "BasePath": "_content/NZNewsSite",
       "RelativePath": "img/medge.webp",
       "AssetKind": "All",
@@ -357,10 +357,10 @@
       "OriginalItemSpec": "wwwroot\\img\\medge.webp"
     },
     {
-      "Identity": "C:\\Users\\shawn\\Documents\\GitBash\\repos\\NZNewsSite\\NZNewsSite\\wwwroot\\img\\metavr.jpeg",
+      "Identity": "C:\\Users\\Dee Jax\\Documents\\GitHub\\New-Zealand-News-Site\\NZNewsSite\\wwwroot\\img\\metavr.jpeg",
       "SourceId": "NZNewsSite",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\shawn\\Documents\\GitBash\\repos\\NZNewsSite\\NZNewsSite\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dee Jax\\Documents\\GitHub\\New-Zealand-News-Site\\NZNewsSite\\wwwroot\\",
       "BasePath": "_content/NZNewsSite",
       "RelativePath": "img/metavr.jpeg",
       "AssetKind": "All",
@@ -374,10 +374,10 @@
       "OriginalItemSpec": "wwwroot\\img\\metavr.jpeg"
     },
     {
-      "Identity": "C:\\Users\\shawn\\Documents\\GitBash\\repos\\NZNewsSite\\NZNewsSite\\wwwroot\\img\\mverst.jpg",
+      "Identity": "C:\\Users\\Dee Jax\\Documents\\GitHub\\New-Zealand-News-Site\\NZNewsSite\\wwwroot\\img\\mverst.jpg",
       "SourceId": "NZNewsSite",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\shawn\\Documents\\GitBash\\repos\\NZNewsSite\\NZNewsSite\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dee Jax\\Documents\\GitHub\\New-Zealand-News-Site\\NZNewsSite\\wwwroot\\",
       "BasePath": "_content/NZNewsSite",
       "RelativePath": "img/mverst.jpg",
       "AssetKind": "All",
@@ -391,10 +391,10 @@
       "OriginalItemSpec": "wwwroot\\img\\mverst.jpg"
     },
     {
-      "Identity": "C:\\Users\\shawn\\Documents\\GitBash\\repos\\NZNewsSite\\NZNewsSite\\wwwroot\\img\\mwood.jpg",
+      "Identity": "C:\\Users\\Dee Jax\\Documents\\GitHub\\New-Zealand-News-Site\\NZNewsSite\\wwwroot\\img\\mwood.jpg",
       "SourceId": "NZNewsSite",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\shawn\\Documents\\GitBash\\repos\\NZNewsSite\\NZNewsSite\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dee Jax\\Documents\\GitHub\\New-Zealand-News-Site\\NZNewsSite\\wwwroot\\",
       "BasePath": "_content/NZNewsSite",
       "RelativePath": "img/mwood.jpg",
       "AssetKind": "All",
@@ -408,10 +408,10 @@
       "OriginalItemSpec": "wwwroot\\img\\mwood.jpg"
     },
     {
-      "Identity": "C:\\Users\\shawn\\Documents\\GitBash\\repos\\NZNewsSite\\NZNewsSite\\wwwroot\\img\\newslogo.jpg",
+      "Identity": "C:\\Users\\Dee Jax\\Documents\\GitHub\\New-Zealand-News-Site\\NZNewsSite\\wwwroot\\img\\newslogo.jpg",
       "SourceId": "NZNewsSite",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\shawn\\Documents\\GitBash\\repos\\NZNewsSite\\NZNewsSite\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dee Jax\\Documents\\GitHub\\New-Zealand-News-Site\\NZNewsSite\\wwwroot\\",
       "BasePath": "_content/NZNewsSite",
       "RelativePath": "img/newslogo.jpg",
       "AssetKind": "All",
@@ -425,10 +425,10 @@
       "OriginalItemSpec": "wwwroot\\img\\newslogo.jpg"
     },
     {
-      "Identity": "C:\\Users\\shawn\\Documents\\GitBash\\repos\\NZNewsSite\\NZNewsSite\\wwwroot\\img\\njokic.jpg",
+      "Identity": "C:\\Users\\Dee Jax\\Documents\\GitHub\\New-Zealand-News-Site\\NZNewsSite\\wwwroot\\img\\njokic.jpg",
       "SourceId": "NZNewsSite",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\shawn\\Documents\\GitBash\\repos\\NZNewsSite\\NZNewsSite\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dee Jax\\Documents\\GitHub\\New-Zealand-News-Site\\NZNewsSite\\wwwroot\\",
       "BasePath": "_content/NZNewsSite",
       "RelativePath": "img/njokic.jpg",
       "AssetKind": "All",
@@ -442,10 +442,10 @@
       "OriginalItemSpec": "wwwroot\\img\\njokic.jpg"
     },
     {
-      "Identity": "C:\\Users\\shawn\\Documents\\GitBash\\repos\\NZNewsSite\\NZNewsSite\\wwwroot\\img\\scane.jpg",
+      "Identity": "C:\\Users\\Dee Jax\\Documents\\GitHub\\New-Zealand-News-Site\\NZNewsSite\\wwwroot\\img\\scane.jpg",
       "SourceId": "NZNewsSite",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\shawn\\Documents\\GitBash\\repos\\NZNewsSite\\NZNewsSite\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dee Jax\\Documents\\GitHub\\New-Zealand-News-Site\\NZNewsSite\\wwwroot\\",
       "BasePath": "_content/NZNewsSite",
       "RelativePath": "img/scane.jpg",
       "AssetKind": "All",
@@ -459,10 +459,10 @@
       "OriginalItemSpec": "wwwroot\\img\\scane.jpg"
     },
     {
-      "Identity": "C:\\Users\\shawn\\Documents\\GitBash\\repos\\NZNewsSite\\NZNewsSite\\wwwroot\\img\\spichai.jpg",
+      "Identity": "C:\\Users\\Dee Jax\\Documents\\GitHub\\New-Zealand-News-Site\\NZNewsSite\\wwwroot\\img\\spichai.jpg",
       "SourceId": "NZNewsSite",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\shawn\\Documents\\GitBash\\repos\\NZNewsSite\\NZNewsSite\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dee Jax\\Documents\\GitHub\\New-Zealand-News-Site\\NZNewsSite\\wwwroot\\",
       "BasePath": "_content/NZNewsSite",
       "RelativePath": "img/spichai.jpg",
       "AssetKind": "All",
@@ -476,10 +476,10 @@
       "OriginalItemSpec": "wwwroot\\img\\spichai.jpg"
     },
     {
-      "Identity": "C:\\Users\\shawn\\Documents\\GitBash\\repos\\NZNewsSite\\NZNewsSite\\wwwroot\\img\\teslay.jpg",
+      "Identity": "C:\\Users\\Dee Jax\\Documents\\GitHub\\New-Zealand-News-Site\\NZNewsSite\\wwwroot\\img\\teslay.jpg",
       "SourceId": "NZNewsSite",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\shawn\\Documents\\GitBash\\repos\\NZNewsSite\\NZNewsSite\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dee Jax\\Documents\\GitHub\\New-Zealand-News-Site\\NZNewsSite\\wwwroot\\",
       "BasePath": "_content/NZNewsSite",
       "RelativePath": "img/teslay.jpg",
       "AssetKind": "All",
@@ -493,10 +493,10 @@
       "OriginalItemSpec": "wwwroot\\img\\teslay.jpg"
     },
     {
-      "Identity": "C:\\Users\\shawn\\Documents\\GitBash\\repos\\NZNewsSite\\NZNewsSite\\wwwroot\\img\\ttok.jpg",
+      "Identity": "C:\\Users\\Dee Jax\\Documents\\GitHub\\New-Zealand-News-Site\\NZNewsSite\\wwwroot\\img\\ttok.jpg",
       "SourceId": "NZNewsSite",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\shawn\\Documents\\GitBash\\repos\\NZNewsSite\\NZNewsSite\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dee Jax\\Documents\\GitHub\\New-Zealand-News-Site\\NZNewsSite\\wwwroot\\",
       "BasePath": "_content/NZNewsSite",
       "RelativePath": "img/ttok.jpg",
       "AssetKind": "All",
@@ -510,10 +510,10 @@
       "OriginalItemSpec": "wwwroot\\img\\ttok.jpg"
     },
     {
-      "Identity": "C:\\Users\\shawn\\Documents\\GitBash\\repos\\NZNewsSite\\NZNewsSite\\wwwroot\\img\\uktun.webp",
+      "Identity": "C:\\Users\\Dee Jax\\Documents\\GitHub\\New-Zealand-News-Site\\NZNewsSite\\wwwroot\\img\\uktun.webp",
       "SourceId": "NZNewsSite",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\shawn\\Documents\\GitBash\\repos\\NZNewsSite\\NZNewsSite\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dee Jax\\Documents\\GitHub\\New-Zealand-News-Site\\NZNewsSite\\wwwroot\\",
       "BasePath": "_content/NZNewsSite",
       "RelativePath": "img/uktun.webp",
       "AssetKind": "All",
@@ -527,10 +527,10 @@
       "OriginalItemSpec": "wwwroot\\img\\uktun.webp"
     },
     {
-      "Identity": "C:\\Users\\shawn\\Documents\\GitBash\\repos\\NZNewsSite\\NZNewsSite\\wwwroot\\img\\vputin.jpg",
+      "Identity": "C:\\Users\\Dee Jax\\Documents\\GitHub\\New-Zealand-News-Site\\NZNewsSite\\wwwroot\\img\\vputin.jpg",
       "SourceId": "NZNewsSite",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\shawn\\Documents\\GitBash\\repos\\NZNewsSite\\NZNewsSite\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dee Jax\\Documents\\GitHub\\New-Zealand-News-Site\\NZNewsSite\\wwwroot\\",
       "BasePath": "_content/NZNewsSite",
       "RelativePath": "img/vputin.jpg",
       "AssetKind": "All",
@@ -544,10 +544,10 @@
       "OriginalItemSpec": "wwwroot\\img\\vputin.jpg"
     },
     {
-      "Identity": "C:\\Users\\shawn\\Documents\\GitBash\\repos\\NZNewsSite\\NZNewsSite\\wwwroot\\img\\vzelensky.jpg",
+      "Identity": "C:\\Users\\Dee Jax\\Documents\\GitHub\\New-Zealand-News-Site\\NZNewsSite\\wwwroot\\img\\vzelensky.jpg",
       "SourceId": "NZNewsSite",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\shawn\\Documents\\GitBash\\repos\\NZNewsSite\\NZNewsSite\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dee Jax\\Documents\\GitHub\\New-Zealand-News-Site\\NZNewsSite\\wwwroot\\",
       "BasePath": "_content/NZNewsSite",
       "RelativePath": "img/vzelensky.jpg",
       "AssetKind": "All",
@@ -561,10 +561,10 @@
       "OriginalItemSpec": "wwwroot\\img\\vzelensky.jpg"
     },
     {
-      "Identity": "C:\\Users\\shawn\\Documents\\GitBash\\repos\\NZNewsSite\\NZNewsSite\\wwwroot\\img\\wbrown.jpg",
+      "Identity": "C:\\Users\\Dee Jax\\Documents\\GitHub\\New-Zealand-News-Site\\NZNewsSite\\wwwroot\\img\\wbrown.jpg",
       "SourceId": "NZNewsSite",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\shawn\\Documents\\GitBash\\repos\\NZNewsSite\\NZNewsSite\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dee Jax\\Documents\\GitHub\\New-Zealand-News-Site\\NZNewsSite\\wwwroot\\",
       "BasePath": "_content/NZNewsSite",
       "RelativePath": "img/wbrown.jpg",
       "AssetKind": "All",
@@ -578,10 +578,10 @@
       "OriginalItemSpec": "wwwroot\\img\\wbrown.jpg"
     },
     {
-      "Identity": "C:\\Users\\shawn\\Documents\\GitBash\\repos\\NZNewsSite\\NZNewsSite\\wwwroot\\js\\site.js",
+      "Identity": "C:\\Users\\Dee Jax\\Documents\\GitHub\\New-Zealand-News-Site\\NZNewsSite\\wwwroot\\js\\site.js",
       "SourceId": "NZNewsSite",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\shawn\\Documents\\GitBash\\repos\\NZNewsSite\\NZNewsSite\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dee Jax\\Documents\\GitHub\\New-Zealand-News-Site\\NZNewsSite\\wwwroot\\",
       "BasePath": "_content/NZNewsSite",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -595,10 +595,10 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "C:\\Users\\shawn\\Documents\\GitBash\\repos\\NZNewsSite\\NZNewsSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "C:\\Users\\Dee Jax\\Documents\\GitHub\\New-Zealand-News-Site\\NZNewsSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "NZNewsSite",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\shawn\\Documents\\GitBash\\repos\\NZNewsSite\\NZNewsSite\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dee Jax\\Documents\\GitHub\\New-Zealand-News-Site\\NZNewsSite\\wwwroot\\",
       "BasePath": "_content/NZNewsSite",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -612,10 +612,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "C:\\Users\\shawn\\Documents\\GitBash\\repos\\NZNewsSite\\NZNewsSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "C:\\Users\\Dee Jax\\Documents\\GitHub\\New-Zealand-News-Site\\NZNewsSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "NZNewsSite",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\shawn\\Documents\\GitBash\\repos\\NZNewsSite\\NZNewsSite\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dee Jax\\Documents\\GitHub\\New-Zealand-News-Site\\NZNewsSite\\wwwroot\\",
       "BasePath": "_content/NZNewsSite",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -629,10 +629,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "C:\\Users\\shawn\\Documents\\GitBash\\repos\\NZNewsSite\\NZNewsSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "C:\\Users\\Dee Jax\\Documents\\GitHub\\New-Zealand-News-Site\\NZNewsSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "NZNewsSite",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\shawn\\Documents\\GitBash\\repos\\NZNewsSite\\NZNewsSite\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dee Jax\\Documents\\GitHub\\New-Zealand-News-Site\\NZNewsSite\\wwwroot\\",
       "BasePath": "_content/NZNewsSite",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -646,10 +646,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\shawn\\Documents\\GitBash\\repos\\NZNewsSite\\NZNewsSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "C:\\Users\\Dee Jax\\Documents\\GitHub\\New-Zealand-News-Site\\NZNewsSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "NZNewsSite",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\shawn\\Documents\\GitBash\\repos\\NZNewsSite\\NZNewsSite\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dee Jax\\Documents\\GitHub\\New-Zealand-News-Site\\NZNewsSite\\wwwroot\\",
       "BasePath": "_content/NZNewsSite",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -663,10 +663,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\shawn\\Documents\\GitBash\\repos\\NZNewsSite\\NZNewsSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Identity": "C:\\Users\\Dee Jax\\Documents\\GitHub\\New-Zealand-News-Site\\NZNewsSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "NZNewsSite",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\shawn\\Documents\\GitBash\\repos\\NZNewsSite\\NZNewsSite\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dee Jax\\Documents\\GitHub\\New-Zealand-News-Site\\NZNewsSite\\wwwroot\\",
       "BasePath": "_content/NZNewsSite",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
       "AssetKind": "All",
@@ -680,10 +680,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\shawn\\Documents\\GitBash\\repos\\NZNewsSite\\NZNewsSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Identity": "C:\\Users\\Dee Jax\\Documents\\GitHub\\New-Zealand-News-Site\\NZNewsSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "NZNewsSite",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\shawn\\Documents\\GitBash\\repos\\NZNewsSite\\NZNewsSite\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dee Jax\\Documents\\GitHub\\New-Zealand-News-Site\\NZNewsSite\\wwwroot\\",
       "BasePath": "_content/NZNewsSite",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "AssetKind": "All",
@@ -697,10 +697,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\shawn\\Documents\\GitBash\\repos\\NZNewsSite\\NZNewsSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Identity": "C:\\Users\\Dee Jax\\Documents\\GitHub\\New-Zealand-News-Site\\NZNewsSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "NZNewsSite",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\shawn\\Documents\\GitBash\\repos\\NZNewsSite\\NZNewsSite\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dee Jax\\Documents\\GitHub\\New-Zealand-News-Site\\NZNewsSite\\wwwroot\\",
       "BasePath": "_content/NZNewsSite",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "AssetKind": "All",
@@ -714,10 +714,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\shawn\\Documents\\GitBash\\repos\\NZNewsSite\\NZNewsSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Identity": "C:\\Users\\Dee Jax\\Documents\\GitHub\\New-Zealand-News-Site\\NZNewsSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "NZNewsSite",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\shawn\\Documents\\GitBash\\repos\\NZNewsSite\\NZNewsSite\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dee Jax\\Documents\\GitHub\\New-Zealand-News-Site\\NZNewsSite\\wwwroot\\",
       "BasePath": "_content/NZNewsSite",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
@@ -731,10 +731,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\shawn\\Documents\\GitBash\\repos\\NZNewsSite\\NZNewsSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "C:\\Users\\Dee Jax\\Documents\\GitHub\\New-Zealand-News-Site\\NZNewsSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "NZNewsSite",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\shawn\\Documents\\GitBash\\repos\\NZNewsSite\\NZNewsSite\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dee Jax\\Documents\\GitHub\\New-Zealand-News-Site\\NZNewsSite\\wwwroot\\",
       "BasePath": "_content/NZNewsSite",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -748,10 +748,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "C:\\Users\\shawn\\Documents\\GitBash\\repos\\NZNewsSite\\NZNewsSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "C:\\Users\\Dee Jax\\Documents\\GitHub\\New-Zealand-News-Site\\NZNewsSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "NZNewsSite",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\shawn\\Documents\\GitBash\\repos\\NZNewsSite\\NZNewsSite\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dee Jax\\Documents\\GitHub\\New-Zealand-News-Site\\NZNewsSite\\wwwroot\\",
       "BasePath": "_content/NZNewsSite",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -765,10 +765,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "C:\\Users\\shawn\\Documents\\GitBash\\repos\\NZNewsSite\\NZNewsSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "C:\\Users\\Dee Jax\\Documents\\GitHub\\New-Zealand-News-Site\\NZNewsSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "NZNewsSite",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\shawn\\Documents\\GitBash\\repos\\NZNewsSite\\NZNewsSite\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dee Jax\\Documents\\GitHub\\New-Zealand-News-Site\\NZNewsSite\\wwwroot\\",
       "BasePath": "_content/NZNewsSite",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -782,10 +782,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "C:\\Users\\shawn\\Documents\\GitBash\\repos\\NZNewsSite\\NZNewsSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "C:\\Users\\Dee Jax\\Documents\\GitHub\\New-Zealand-News-Site\\NZNewsSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "NZNewsSite",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\shawn\\Documents\\GitBash\\repos\\NZNewsSite\\NZNewsSite\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dee Jax\\Documents\\GitHub\\New-Zealand-News-Site\\NZNewsSite\\wwwroot\\",
       "BasePath": "_content/NZNewsSite",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -799,10 +799,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\shawn\\Documents\\GitBash\\repos\\NZNewsSite\\NZNewsSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Identity": "C:\\Users\\Dee Jax\\Documents\\GitHub\\New-Zealand-News-Site\\NZNewsSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "NZNewsSite",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\shawn\\Documents\\GitBash\\repos\\NZNewsSite\\NZNewsSite\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dee Jax\\Documents\\GitHub\\New-Zealand-News-Site\\NZNewsSite\\wwwroot\\",
       "BasePath": "_content/NZNewsSite",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -816,10 +816,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\shawn\\Documents\\GitBash\\repos\\NZNewsSite\\NZNewsSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Identity": "C:\\Users\\Dee Jax\\Documents\\GitHub\\New-Zealand-News-Site\\NZNewsSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "NZNewsSite",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\shawn\\Documents\\GitBash\\repos\\NZNewsSite\\NZNewsSite\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dee Jax\\Documents\\GitHub\\New-Zealand-News-Site\\NZNewsSite\\wwwroot\\",
       "BasePath": "_content/NZNewsSite",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -833,10 +833,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\shawn\\Documents\\GitBash\\repos\\NZNewsSite\\NZNewsSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Identity": "C:\\Users\\Dee Jax\\Documents\\GitHub\\New-Zealand-News-Site\\NZNewsSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "NZNewsSite",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\shawn\\Documents\\GitBash\\repos\\NZNewsSite\\NZNewsSite\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dee Jax\\Documents\\GitHub\\New-Zealand-News-Site\\NZNewsSite\\wwwroot\\",
       "BasePath": "_content/NZNewsSite",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -850,10 +850,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\shawn\\Documents\\GitBash\\repos\\NZNewsSite\\NZNewsSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Identity": "C:\\Users\\Dee Jax\\Documents\\GitHub\\New-Zealand-News-Site\\NZNewsSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "NZNewsSite",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\shawn\\Documents\\GitBash\\repos\\NZNewsSite\\NZNewsSite\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dee Jax\\Documents\\GitHub\\New-Zealand-News-Site\\NZNewsSite\\wwwroot\\",
       "BasePath": "_content/NZNewsSite",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -867,10 +867,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\shawn\\Documents\\GitBash\\repos\\NZNewsSite\\NZNewsSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "C:\\Users\\Dee Jax\\Documents\\GitHub\\New-Zealand-News-Site\\NZNewsSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "NZNewsSite",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\shawn\\Documents\\GitBash\\repos\\NZNewsSite\\NZNewsSite\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dee Jax\\Documents\\GitHub\\New-Zealand-News-Site\\NZNewsSite\\wwwroot\\",
       "BasePath": "_content/NZNewsSite",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -884,10 +884,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "C:\\Users\\shawn\\Documents\\GitBash\\repos\\NZNewsSite\\NZNewsSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "C:\\Users\\Dee Jax\\Documents\\GitHub\\New-Zealand-News-Site\\NZNewsSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "NZNewsSite",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\shawn\\Documents\\GitBash\\repos\\NZNewsSite\\NZNewsSite\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dee Jax\\Documents\\GitHub\\New-Zealand-News-Site\\NZNewsSite\\wwwroot\\",
       "BasePath": "_content/NZNewsSite",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -901,10 +901,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "C:\\Users\\shawn\\Documents\\GitBash\\repos\\NZNewsSite\\NZNewsSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "C:\\Users\\Dee Jax\\Documents\\GitHub\\New-Zealand-News-Site\\NZNewsSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "NZNewsSite",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\shawn\\Documents\\GitBash\\repos\\NZNewsSite\\NZNewsSite\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dee Jax\\Documents\\GitHub\\New-Zealand-News-Site\\NZNewsSite\\wwwroot\\",
       "BasePath": "_content/NZNewsSite",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -918,10 +918,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "C:\\Users\\shawn\\Documents\\GitBash\\repos\\NZNewsSite\\NZNewsSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "C:\\Users\\Dee Jax\\Documents\\GitHub\\New-Zealand-News-Site\\NZNewsSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "NZNewsSite",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\shawn\\Documents\\GitBash\\repos\\NZNewsSite\\NZNewsSite\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dee Jax\\Documents\\GitHub\\New-Zealand-News-Site\\NZNewsSite\\wwwroot\\",
       "BasePath": "_content/NZNewsSite",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -935,10 +935,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\shawn\\Documents\\GitBash\\repos\\NZNewsSite\\NZNewsSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Identity": "C:\\Users\\Dee Jax\\Documents\\GitHub\\New-Zealand-News-Site\\NZNewsSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "NZNewsSite",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\shawn\\Documents\\GitBash\\repos\\NZNewsSite\\NZNewsSite\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dee Jax\\Documents\\GitHub\\New-Zealand-News-Site\\NZNewsSite\\wwwroot\\",
       "BasePath": "_content/NZNewsSite",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -952,10 +952,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\shawn\\Documents\\GitBash\\repos\\NZNewsSite\\NZNewsSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Identity": "C:\\Users\\Dee Jax\\Documents\\GitHub\\New-Zealand-News-Site\\NZNewsSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "NZNewsSite",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\shawn\\Documents\\GitBash\\repos\\NZNewsSite\\NZNewsSite\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dee Jax\\Documents\\GitHub\\New-Zealand-News-Site\\NZNewsSite\\wwwroot\\",
       "BasePath": "_content/NZNewsSite",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -969,10 +969,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\shawn\\Documents\\GitBash\\repos\\NZNewsSite\\NZNewsSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Identity": "C:\\Users\\Dee Jax\\Documents\\GitHub\\New-Zealand-News-Site\\NZNewsSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "NZNewsSite",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\shawn\\Documents\\GitBash\\repos\\NZNewsSite\\NZNewsSite\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dee Jax\\Documents\\GitHub\\New-Zealand-News-Site\\NZNewsSite\\wwwroot\\",
       "BasePath": "_content/NZNewsSite",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -986,10 +986,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\shawn\\Documents\\GitBash\\repos\\NZNewsSite\\NZNewsSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Identity": "C:\\Users\\Dee Jax\\Documents\\GitHub\\New-Zealand-News-Site\\NZNewsSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "NZNewsSite",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\shawn\\Documents\\GitBash\\repos\\NZNewsSite\\NZNewsSite\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dee Jax\\Documents\\GitHub\\New-Zealand-News-Site\\NZNewsSite\\wwwroot\\",
       "BasePath": "_content/NZNewsSite",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -1003,10 +1003,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\shawn\\Documents\\GitBash\\repos\\NZNewsSite\\NZNewsSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Identity": "C:\\Users\\Dee Jax\\Documents\\GitHub\\New-Zealand-News-Site\\NZNewsSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "NZNewsSite",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\shawn\\Documents\\GitBash\\repos\\NZNewsSite\\NZNewsSite\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dee Jax\\Documents\\GitHub\\New-Zealand-News-Site\\NZNewsSite\\wwwroot\\",
       "BasePath": "_content/NZNewsSite",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -1020,10 +1020,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "C:\\Users\\shawn\\Documents\\GitBash\\repos\\NZNewsSite\\NZNewsSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Identity": "C:\\Users\\Dee Jax\\Documents\\GitHub\\New-Zealand-News-Site\\NZNewsSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "NZNewsSite",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\shawn\\Documents\\GitBash\\repos\\NZNewsSite\\NZNewsSite\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dee Jax\\Documents\\GitHub\\New-Zealand-News-Site\\NZNewsSite\\wwwroot\\",
       "BasePath": "_content/NZNewsSite",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -1037,10 +1037,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Identity": "C:\\Users\\shawn\\Documents\\GitBash\\repos\\NZNewsSite\\NZNewsSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Identity": "C:\\Users\\Dee Jax\\Documents\\GitHub\\New-Zealand-News-Site\\NZNewsSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "NZNewsSite",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\shawn\\Documents\\GitBash\\repos\\NZNewsSite\\NZNewsSite\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dee Jax\\Documents\\GitHub\\New-Zealand-News-Site\\NZNewsSite\\wwwroot\\",
       "BasePath": "_content/NZNewsSite",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -1054,10 +1054,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Identity": "C:\\Users\\shawn\\Documents\\GitBash\\repos\\NZNewsSite\\NZNewsSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Identity": "C:\\Users\\Dee Jax\\Documents\\GitHub\\New-Zealand-News-Site\\NZNewsSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "NZNewsSite",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\shawn\\Documents\\GitBash\\repos\\NZNewsSite\\NZNewsSite\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dee Jax\\Documents\\GitHub\\New-Zealand-News-Site\\NZNewsSite\\wwwroot\\",
       "BasePath": "_content/NZNewsSite",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -1071,10 +1071,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\shawn\\Documents\\GitBash\\repos\\NZNewsSite\\NZNewsSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Identity": "C:\\Users\\Dee Jax\\Documents\\GitHub\\New-Zealand-News-Site\\NZNewsSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "NZNewsSite",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\shawn\\Documents\\GitBash\\repos\\NZNewsSite\\NZNewsSite\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dee Jax\\Documents\\GitHub\\New-Zealand-News-Site\\NZNewsSite\\wwwroot\\",
       "BasePath": "_content/NZNewsSite",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -1088,10 +1088,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\shawn\\Documents\\GitBash\\repos\\NZNewsSite\\NZNewsSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Identity": "C:\\Users\\Dee Jax\\Documents\\GitHub\\New-Zealand-News-Site\\NZNewsSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "NZNewsSite",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\shawn\\Documents\\GitBash\\repos\\NZNewsSite\\NZNewsSite\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dee Jax\\Documents\\GitHub\\New-Zealand-News-Site\\NZNewsSite\\wwwroot\\",
       "BasePath": "_content/NZNewsSite",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -1105,10 +1105,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\shawn\\Documents\\GitBash\\repos\\NZNewsSite\\NZNewsSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Identity": "C:\\Users\\Dee Jax\\Documents\\GitHub\\New-Zealand-News-Site\\NZNewsSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "NZNewsSite",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\shawn\\Documents\\GitBash\\repos\\NZNewsSite\\NZNewsSite\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dee Jax\\Documents\\GitHub\\New-Zealand-News-Site\\NZNewsSite\\wwwroot\\",
       "BasePath": "_content/NZNewsSite",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -1122,10 +1122,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\shawn\\Documents\\GitBash\\repos\\NZNewsSite\\NZNewsSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Identity": "C:\\Users\\Dee Jax\\Documents\\GitHub\\New-Zealand-News-Site\\NZNewsSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "NZNewsSite",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\shawn\\Documents\\GitBash\\repos\\NZNewsSite\\NZNewsSite\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dee Jax\\Documents\\GitHub\\New-Zealand-News-Site\\NZNewsSite\\wwwroot\\",
       "BasePath": "_content/NZNewsSite",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -1139,10 +1139,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\shawn\\Documents\\GitBash\\repos\\NZNewsSite\\NZNewsSite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "C:\\Users\\Dee Jax\\Documents\\GitHub\\New-Zealand-News-Site\\NZNewsSite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "NZNewsSite",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\shawn\\Documents\\GitBash\\repos\\NZNewsSite\\NZNewsSite\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dee Jax\\Documents\\GitHub\\New-Zealand-News-Site\\NZNewsSite\\wwwroot\\",
       "BasePath": "_content/NZNewsSite",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -1156,10 +1156,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "C:\\Users\\shawn\\Documents\\GitBash\\repos\\NZNewsSite\\NZNewsSite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "C:\\Users\\Dee Jax\\Documents\\GitHub\\New-Zealand-News-Site\\NZNewsSite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "NZNewsSite",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\shawn\\Documents\\GitBash\\repos\\NZNewsSite\\NZNewsSite\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dee Jax\\Documents\\GitHub\\New-Zealand-News-Site\\NZNewsSite\\wwwroot\\",
       "BasePath": "_content/NZNewsSite",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -1173,10 +1173,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "C:\\Users\\shawn\\Documents\\GitBash\\repos\\NZNewsSite\\NZNewsSite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "C:\\Users\\Dee Jax\\Documents\\GitHub\\New-Zealand-News-Site\\NZNewsSite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "NZNewsSite",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\shawn\\Documents\\GitBash\\repos\\NZNewsSite\\NZNewsSite\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dee Jax\\Documents\\GitHub\\New-Zealand-News-Site\\NZNewsSite\\wwwroot\\",
       "BasePath": "_content/NZNewsSite",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -1190,10 +1190,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "C:\\Users\\shawn\\Documents\\GitBash\\repos\\NZNewsSite\\NZNewsSite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "C:\\Users\\Dee Jax\\Documents\\GitHub\\New-Zealand-News-Site\\NZNewsSite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "NZNewsSite",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\shawn\\Documents\\GitBash\\repos\\NZNewsSite\\NZNewsSite\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dee Jax\\Documents\\GitHub\\New-Zealand-News-Site\\NZNewsSite\\wwwroot\\",
       "BasePath": "_content/NZNewsSite",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -1207,10 +1207,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\shawn\\Documents\\GitBash\\repos\\NZNewsSite\\NZNewsSite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Identity": "C:\\Users\\Dee Jax\\Documents\\GitHub\\New-Zealand-News-Site\\NZNewsSite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "NZNewsSite",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\shawn\\Documents\\GitBash\\repos\\NZNewsSite\\NZNewsSite\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dee Jax\\Documents\\GitHub\\New-Zealand-News-Site\\NZNewsSite\\wwwroot\\",
       "BasePath": "_content/NZNewsSite",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -1224,10 +1224,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "C:\\Users\\shawn\\Documents\\GitBash\\repos\\NZNewsSite\\NZNewsSite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Identity": "C:\\Users\\Dee Jax\\Documents\\GitHub\\New-Zealand-News-Site\\NZNewsSite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "NZNewsSite",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\shawn\\Documents\\GitBash\\repos\\NZNewsSite\\NZNewsSite\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dee Jax\\Documents\\GitHub\\New-Zealand-News-Site\\NZNewsSite\\wwwroot\\",
       "BasePath": "_content/NZNewsSite",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -1241,10 +1241,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "C:\\Users\\shawn\\Documents\\GitBash\\repos\\NZNewsSite\\NZNewsSite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Identity": "C:\\Users\\Dee Jax\\Documents\\GitHub\\New-Zealand-News-Site\\NZNewsSite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "NZNewsSite",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\shawn\\Documents\\GitBash\\repos\\NZNewsSite\\NZNewsSite\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dee Jax\\Documents\\GitHub\\New-Zealand-News-Site\\NZNewsSite\\wwwroot\\",
       "BasePath": "_content/NZNewsSite",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -1258,10 +1258,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "C:\\Users\\shawn\\Documents\\GitBash\\repos\\NZNewsSite\\NZNewsSite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Identity": "C:\\Users\\Dee Jax\\Documents\\GitHub\\New-Zealand-News-Site\\NZNewsSite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "NZNewsSite",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\shawn\\Documents\\GitBash\\repos\\NZNewsSite\\NZNewsSite\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dee Jax\\Documents\\GitHub\\New-Zealand-News-Site\\NZNewsSite\\wwwroot\\",
       "BasePath": "_content/NZNewsSite",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -1275,10 +1275,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\shawn\\Documents\\GitBash\\repos\\NZNewsSite\\NZNewsSite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "C:\\Users\\Dee Jax\\Documents\\GitHub\\New-Zealand-News-Site\\NZNewsSite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "NZNewsSite",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\shawn\\Documents\\GitBash\\repos\\NZNewsSite\\NZNewsSite\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dee Jax\\Documents\\GitHub\\New-Zealand-News-Site\\NZNewsSite\\wwwroot\\",
       "BasePath": "_content/NZNewsSite",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -1292,10 +1292,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "C:\\Users\\shawn\\Documents\\GitBash\\repos\\NZNewsSite\\NZNewsSite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "C:\\Users\\Dee Jax\\Documents\\GitHub\\New-Zealand-News-Site\\NZNewsSite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "NZNewsSite",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\shawn\\Documents\\GitBash\\repos\\NZNewsSite\\NZNewsSite\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dee Jax\\Documents\\GitHub\\New-Zealand-News-Site\\NZNewsSite\\wwwroot\\",
       "BasePath": "_content/NZNewsSite",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -1309,10 +1309,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "C:\\Users\\shawn\\Documents\\GitBash\\repos\\NZNewsSite\\NZNewsSite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "C:\\Users\\Dee Jax\\Documents\\GitHub\\New-Zealand-News-Site\\NZNewsSite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "NZNewsSite",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\shawn\\Documents\\GitBash\\repos\\NZNewsSite\\NZNewsSite\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dee Jax\\Documents\\GitHub\\New-Zealand-News-Site\\NZNewsSite\\wwwroot\\",
       "BasePath": "_content/NZNewsSite",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -1326,10 +1326,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "C:\\Users\\shawn\\Documents\\GitBash\\repos\\NZNewsSite\\NZNewsSite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "C:\\Users\\Dee Jax\\Documents\\GitHub\\New-Zealand-News-Site\\NZNewsSite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "NZNewsSite",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\shawn\\Documents\\GitBash\\repos\\NZNewsSite\\NZNewsSite\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dee Jax\\Documents\\GitHub\\New-Zealand-News-Site\\NZNewsSite\\wwwroot\\",
       "BasePath": "_content/NZNewsSite",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -1343,10 +1343,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\shawn\\Documents\\GitBash\\repos\\NZNewsSite\\NZNewsSite\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Identity": "C:\\Users\\Dee Jax\\Documents\\GitHub\\New-Zealand-News-Site\\NZNewsSite\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "NZNewsSite",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\shawn\\Documents\\GitBash\\repos\\NZNewsSite\\NZNewsSite\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dee Jax\\Documents\\GitHub\\New-Zealand-News-Site\\NZNewsSite\\wwwroot\\",
       "BasePath": "_content/NZNewsSite",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -1360,10 +1360,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "C:\\Users\\shawn\\Documents\\GitBash\\repos\\NZNewsSite\\NZNewsSite\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "C:\\Users\\Dee Jax\\Documents\\GitHub\\New-Zealand-News-Site\\NZNewsSite\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "NZNewsSite",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\shawn\\Documents\\GitBash\\repos\\NZNewsSite\\NZNewsSite\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dee Jax\\Documents\\GitHub\\New-Zealand-News-Site\\NZNewsSite\\wwwroot\\",
       "BasePath": "_content/NZNewsSite",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -1377,10 +1377,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "C:\\Users\\shawn\\Documents\\GitBash\\repos\\NZNewsSite\\NZNewsSite\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "C:\\Users\\Dee Jax\\Documents\\GitHub\\New-Zealand-News-Site\\NZNewsSite\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "NZNewsSite",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\shawn\\Documents\\GitBash\\repos\\NZNewsSite\\NZNewsSite\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dee Jax\\Documents\\GitHub\\New-Zealand-News-Site\\NZNewsSite\\wwwroot\\",
       "BasePath": "_content/NZNewsSite",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -1394,10 +1394,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "C:\\Users\\shawn\\Documents\\GitBash\\repos\\NZNewsSite\\NZNewsSite\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "C:\\Users\\Dee Jax\\Documents\\GitHub\\New-Zealand-News-Site\\NZNewsSite\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "NZNewsSite",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\shawn\\Documents\\GitBash\\repos\\NZNewsSite\\NZNewsSite\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dee Jax\\Documents\\GitHub\\New-Zealand-News-Site\\NZNewsSite\\wwwroot\\",
       "BasePath": "_content/NZNewsSite",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -1411,10 +1411,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "C:\\Users\\shawn\\Documents\\GitBash\\repos\\NZNewsSite\\NZNewsSite\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "C:\\Users\\Dee Jax\\Documents\\GitHub\\New-Zealand-News-Site\\NZNewsSite\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "NZNewsSite",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\shawn\\Documents\\GitBash\\repos\\NZNewsSite\\NZNewsSite\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dee Jax\\Documents\\GitHub\\New-Zealand-News-Site\\NZNewsSite\\wwwroot\\",
       "BasePath": "_content/NZNewsSite",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
@@ -1428,10 +1428,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\shawn\\Documents\\GitBash\\repos\\NZNewsSite\\NZNewsSite\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "C:\\Users\\Dee Jax\\Documents\\GitHub\\New-Zealand-News-Site\\NZNewsSite\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "NZNewsSite",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\shawn\\Documents\\GitBash\\repos\\NZNewsSite\\NZNewsSite\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dee Jax\\Documents\\GitHub\\New-Zealand-News-Site\\NZNewsSite\\wwwroot\\",
       "BasePath": "_content/NZNewsSite",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -1445,10 +1445,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "C:\\Users\\shawn\\Documents\\GitBash\\repos\\NZNewsSite\\NZNewsSite\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "C:\\Users\\Dee Jax\\Documents\\GitHub\\New-Zealand-News-Site\\NZNewsSite\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "NZNewsSite",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\shawn\\Documents\\GitBash\\repos\\NZNewsSite\\NZNewsSite\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dee Jax\\Documents\\GitHub\\New-Zealand-News-Site\\NZNewsSite\\wwwroot\\",
       "BasePath": "_content/NZNewsSite",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -1462,10 +1462,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "C:\\Users\\shawn\\Documents\\GitBash\\repos\\NZNewsSite\\NZNewsSite\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "C:\\Users\\Dee Jax\\Documents\\GitHub\\New-Zealand-News-Site\\NZNewsSite\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "NZNewsSite",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\shawn\\Documents\\GitBash\\repos\\NZNewsSite\\NZNewsSite\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dee Jax\\Documents\\GitHub\\New-Zealand-News-Site\\NZNewsSite\\wwwroot\\",
       "BasePath": "_content/NZNewsSite",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -1479,10 +1479,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "C:\\Users\\shawn\\Documents\\GitBash\\repos\\NZNewsSite\\NZNewsSite\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "C:\\Users\\Dee Jax\\Documents\\GitHub\\New-Zealand-News-Site\\NZNewsSite\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "NZNewsSite",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\shawn\\Documents\\GitBash\\repos\\NZNewsSite\\NZNewsSite\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dee Jax\\Documents\\GitHub\\New-Zealand-News-Site\\NZNewsSite\\wwwroot\\",
       "BasePath": "_content/NZNewsSite",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -1496,10 +1496,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "C:\\Users\\shawn\\Documents\\GitBash\\repos\\NZNewsSite\\NZNewsSite\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "C:\\Users\\Dee Jax\\Documents\\GitHub\\New-Zealand-News-Site\\NZNewsSite\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "NZNewsSite",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\shawn\\Documents\\GitBash\\repos\\NZNewsSite\\NZNewsSite\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dee Jax\\Documents\\GitHub\\New-Zealand-News-Site\\NZNewsSite\\wwwroot\\",
       "BasePath": "_content/NZNewsSite",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -1513,10 +1513,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "C:\\Users\\shawn\\Documents\\GitBash\\repos\\NZNewsSite\\NZNewsSite\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "C:\\Users\\Dee Jax\\Documents\\GitHub\\New-Zealand-News-Site\\NZNewsSite\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "NZNewsSite",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\shawn\\Documents\\GitBash\\repos\\NZNewsSite\\NZNewsSite\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dee Jax\\Documents\\GitHub\\New-Zealand-News-Site\\NZNewsSite\\wwwroot\\",
       "BasePath": "_content/NZNewsSite",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -1530,10 +1530,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "C:\\Users\\shawn\\Documents\\GitBash\\repos\\NZNewsSite\\NZNewsSite\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "C:\\Users\\Dee Jax\\Documents\\GitHub\\New-Zealand-News-Site\\NZNewsSite\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "NZNewsSite",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\shawn\\Documents\\GitBash\\repos\\NZNewsSite\\NZNewsSite\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dee Jax\\Documents\\GitHub\\New-Zealand-News-Site\\NZNewsSite\\wwwroot\\",
       "BasePath": "_content/NZNewsSite",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -1547,10 +1547,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "C:\\Users\\shawn\\Documents\\GitBash\\repos\\NZNewsSite\\NZNewsSite\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "C:\\Users\\Dee Jax\\Documents\\GitHub\\New-Zealand-News-Site\\NZNewsSite\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "NZNewsSite",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\shawn\\Documents\\GitBash\\repos\\NZNewsSite\\NZNewsSite\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dee Jax\\Documents\\GitHub\\New-Zealand-News-Site\\NZNewsSite\\wwwroot\\",
       "BasePath": "_content/NZNewsSite",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",
