@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\shawn\\Documents\\GitBash\\repos\\NZNewsSite\\NZNewsSite\\NZNewsSite.csproj": {}
+    "C:\\Users\\Dee Jax\\Documents\\GitHub\\New-Zealand-News-Site\\NZNewsSite\\NZNewsSite.csproj": {}
   },
   "projects": {
-    "C:\\Users\\shawn\\Documents\\GitBash\\repos\\NZNewsSite\\NZNewsSite\\NZNewsSite.csproj": {
+    "C:\\Users\\Dee Jax\\Documents\\GitHub\\New-Zealand-News-Site\\NZNewsSite\\NZNewsSite.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\shawn\\Documents\\GitBash\\repos\\NZNewsSite\\NZNewsSite\\NZNewsSite.csproj",
+        "projectUniqueName": "C:\\Users\\Dee Jax\\Documents\\GitHub\\New-Zealand-News-Site\\NZNewsSite\\NZNewsSite.csproj",
         "projectName": "NZNewsSite",
-        "projectPath": "C:\\Users\\shawn\\Documents\\GitBash\\repos\\NZNewsSite\\NZNewsSite\\NZNewsSite.csproj",
-        "packagesPath": "C:\\Users\\shawn\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\shawn\\Documents\\GitBash\\repos\\NZNewsSite\\NZNewsSite\\obj\\",
+        "projectPath": "C:\\Users\\Dee Jax\\Documents\\GitHub\\New-Zealand-News-Site\\NZNewsSite\\NZNewsSite.csproj",
+        "packagesPath": "C:\\Users\\Dee Jax\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Dee Jax\\Documents\\GitHub\\New-Zealand-News-Site\\NZNewsSite\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\shawn\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Dee Jax\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
