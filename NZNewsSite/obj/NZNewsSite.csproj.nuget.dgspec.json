@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\shawn\\Documents\\GitHub\\NZNewsSite\\NZNewsSite\\NZNewsSite.csproj": {}
+    "C:\\Users\\shawn\\Documents\\GitBash\\repos\\NZNewsSite\\NZNewsSite\\NZNewsSite.csproj": {}
   },
   "projects": {
-    "C:\\Users\\shawn\\Documents\\GitHub\\NZNewsSite\\NZNewsSite\\NZNewsSite.csproj": {
+    "C:\\Users\\shawn\\Documents\\GitBash\\repos\\NZNewsSite\\NZNewsSite\\NZNewsSite.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\shawn\\Documents\\GitHub\\NZNewsSite\\NZNewsSite\\NZNewsSite.csproj",
+        "projectUniqueName": "C:\\Users\\shawn\\Documents\\GitBash\\repos\\NZNewsSite\\NZNewsSite\\NZNewsSite.csproj",
         "projectName": "NZNewsSite",
-        "projectPath": "C:\\Users\\shawn\\Documents\\GitHub\\NZNewsSite\\NZNewsSite\\NZNewsSite.csproj",
+        "projectPath": "C:\\Users\\shawn\\Documents\\GitBash\\repos\\NZNewsSite\\NZNewsSite\\NZNewsSite.csproj",
         "packagesPath": "C:\\Users\\shawn\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\shawn\\Documents\\GitHub\\NZNewsSite\\NZNewsSite\\obj\\",
+        "outputPath": "C:\\Users\\shawn\\Documents\\GitBash\\repos\\NZNewsSite\\NZNewsSite\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\shawn\\AppData\\Roaming\\NuGet\\NuGet.Config",
