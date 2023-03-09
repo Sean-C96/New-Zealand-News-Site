@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\shawn\\source\\repos\\NZNewsSite\\NZNewsSite\\NZNewsSite.csproj",
+      "projectUniqueName": "C:\\Users\\shawn\\Documents\\GitHub\\NZNewsSite\\NZNewsSite\\NZNewsSite.csproj",
       "projectName": "NZNewsSite",
-      "projectPath": "C:\\Users\\shawn\\source\\repos\\NZNewsSite\\NZNewsSite\\NZNewsSite.csproj",
+      "projectPath": "C:\\Users\\shawn\\Documents\\GitHub\\NZNewsSite\\NZNewsSite\\NZNewsSite.csproj",
       "packagesPath": "C:\\Users\\shawn\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\shawn\\source\\repos\\NZNewsSite\\NZNewsSite\\obj\\",
+      "outputPath": "C:\\Users\\shawn\\Documents\\GitHub\\NZNewsSite\\NZNewsSite\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\shawn\\AppData\\Roaming\\NuGet\\NuGet.Config",
